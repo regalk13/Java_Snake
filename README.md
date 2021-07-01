@@ -1,2 +1,2 @@
 # Java_Snake
-Project Java Snake
+Project Java Snake.
